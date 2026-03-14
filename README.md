@@ -22,7 +22,7 @@ Learn the fundamentals of OOP by building a library system with books, members, 
 - ✅ Properties and methods
 - ✅ Working with collections
 
-👉 [View Task 1](task-1.md)
+👉 [View Task 1](task 1/task-1.md)
 
 ### Task 2: Student Grade Management System
 Practice working with collections and calculations by creating a gradebook system.
