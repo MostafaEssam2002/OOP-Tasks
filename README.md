@@ -30,7 +30,7 @@ Practice working with collections and calculations by creating a gradebook syste
 - ✅ Data processing and calculations
 - ✅ String formatting
 
-👉 [View Task 2](task-2.md)
+👉 [View Task 2](task%202/task-2.md)
 
 ### Task 3: Vehicle Rental System
 Build a rental system that manages vehicles, customers, and rentals with date handling.
@@ -38,7 +38,7 @@ Build a rental system that manages vehicles, customers, and rentals with date ha
 - ✅ Date/time operations
 - ✅ Business logic implementation
 
-👉 [View Task 3](task-3.md)
+👉 [View Task 3](task%203/task-3.md)
 
 ### Task 4: Restaurant Order System
 Create a restaurant ordering system with menu items, orders, and billing.
@@ -46,7 +46,7 @@ Create a restaurant ordering system with menu items, orders, and billing.
 - ✅ Financial calculations
 - ✅ State management
 
-👉 [View Task 4](task-4.md)
+👉 [View Task 4](task%204/task-4.md)
 
 ## 🎯 Level 2: Intermediate Tasks (5-7)
 **Focus:** Inheritance, polymorphism, interfaces, and enums
@@ -58,7 +58,7 @@ Implement a zoo system with abstract classes (or interfaces) and polymorphic ani
 - ✅ Method overriding
 - ✅ Polymorphism
 
-👉 [View Task 5](task-5.md)
+👉 [View Task 5](task%205/task-5.md)
 
 ### Task 6: Hotel Reservation System
 Build a hotel system with interfaces, enums, and complex date calculations.
@@ -67,7 +67,7 @@ Build a hotel system with interfaces, enums, and complex date calculations.
 - ✅ Composition relationships
 - ✅ Business rules validation
 
-👉 [View Task 6](task-6.md)
+👉 [View Task 6](task%206/task-6.md)
 
 ### Task 7: Bank Account System
 Create a banking system with inheritance and different account types.
@@ -76,7 +76,7 @@ Create a banking system with inheritance and different account types.
 - ✅ Protected/private members
 - ✅ Financial calculations
 
-👉 [View Task 7](task-7.md)
+👉 [View Task 7](task%207/task-7.md)
 
 ## 🚀 Level 3: Advanced Tasks (8-10)
 **Focus:** Design patterns, generics, events/observers, queries, and SOLID principles
@@ -88,7 +88,7 @@ Develop a social platform with complex relationships and event-driven updates.
 - ✅ Access control
 - ✅ Chronological data management
 
-👉 [View Task 8](task-8.md)
+👉 [View Task 8](task%208/task-8.md)
 
 ### Task 9: Inventory and Supply Chain System
 Build a supply chain system with generics, events/observers, and query operations.
@@ -97,7 +97,7 @@ Build a supply chain system with generics, events/observers, and query operation
 - ✅ Query operations (filtering, sorting)
 - ✅ Strategy pattern
 
-👉 [View Task 9](task-9.md)
+👉 [View Task 9](task%209/task-9.md)
 
 ### Task 10: E-Commerce Order Management System
 Create a comprehensive e-commerce system demonstrating all advanced OOP concepts.
@@ -107,7 +107,7 @@ Create a comprehensive e-commerce system demonstrating all advanced OOP concepts
 - ✅ Custom exceptions
 - ✅ Advanced polymorphism
 
-👉 [View Task 10](task-10.md)
+👉 [View Task 10](task%2010/task-10.md)
 
 ## 📖 How to Use This Repository
 
